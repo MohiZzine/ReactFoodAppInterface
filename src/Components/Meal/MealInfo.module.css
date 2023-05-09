@@ -1,0 +1,19 @@
+.meal__info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.meal__description {
+  font-size: 0.8rem;
+  font-weight: 300;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.meal__price {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: rgb(139, 59, 21);
+}

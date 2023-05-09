@@ -1,3 +1,9 @@
+# Screenshot of the App
+
+Here you find a screenshot of the single page application:
+
+![Online Food Delivery App Interface](screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

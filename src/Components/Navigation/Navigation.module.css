@@ -1,0 +1,28 @@
+header {
+  /* position: fixed; */
+  /* top: 0; */
+  /* width: 100%; */
+}
+
+.header-container {
+  overflow: hidden;
+  height: 15vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: #f4f4f4;
+  background: rgb(127, 38, 7);
+}
+
+.header-container > * {
+  margin: 10px 10%;
+}
+
+.add-to-cart-icon {
+  background-color: rgb(127, 38, 7);
+  /* font-size: 15px; */
+  margin-left: 10px;
+  padding: 0.5rem 1rem;
+  border-radius: 30px;
+}
